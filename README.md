@@ -28,7 +28,6 @@ Please make sure to watch the tricks&tips tutorial
 [![Tips&Tricks](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/87941d4f-adb3-4830-beb0-21474d85c344)](https://youtu.be/zkdciJvhlKM)
 
 
-# Course description
 
 # Course Description: Flutter & Firebase Mastery
 
