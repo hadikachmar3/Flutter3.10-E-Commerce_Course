@@ -24,3 +24,80 @@ Without any purchase, you can preview the final outputs of the apps covered in t
 Please make sure to watch the tricks&tips tutorial
 
 [![Tips&Tricks](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/87941d4f-adb3-4830-beb0-21474d85c344)](https://youtu.be/zkdciJvhlKM)
+
+
+# Course description
+
+# Course Description: Flutter & Firebase Mastery
+
+Learn to design, build, and debug fully functional shopping applications with Flutter and Firebase. This course offers in-depth knowledge of Flutter mobile development, Dart programming, and Firebase integration. By the end of the course, not only will you be equipped to manage freelance projects confidently, but you will also be well-prepared to take on a Flutter development position within a company.
+
+## Prerequisites
+
+- Basic knowledge in programming
+- Basic understanding of Flutter
+- Experience with Windows or Mac application development
+- Access to a computer with an internet connection
+- Enthusiasm for learning and applying cutting-edge algorithms to practical cases
+
+## What You Will Learn
+
+This course covers an extensive range of topics, including:
+
+### General
+
+- Dart Programming Language - Fundamentals to expert topics
+- Understanding Flutter Mobile Development by building apps incrementally
+- Designing, building, and debugging Flutter apps
+- Building robust apps with Flutter
+
+### Styles & UI
+
+- Styles for UI
+- Dynamic colors and themes
+- Complex UI made simple
+- Custom widgets
+- Flutter Material Design
+- ListViews and multiple UI states
+- Flutter Row and Column
+- Flutter ListView Builder
+- State Management - Provider
+- Clean code and boilerplate code avoidance
+- setState, lifting state up via callbacks, global access, scoped access with Provider and ChangeNotifier
+- Navigation & Custom navigation
+- Forms, input handling, and validation
+- Managing and updating packages
+
+### Firebase
+
+- Databases and Cloud Firestore
+- Firebase Authentication
+- Firebase Firestore
+- Firebase Storage
+- Real-time communication with Firestore using Streams and StreamBuilder, Futures and FutureBuilder
+
+## Course Structure
+
+- Duration: approximately 12-13 hours of content
+- Regular updates
+
+## What to Expect After This Course
+
+After completing this course, you will have:
+
+- The ability to build a fully functional shopping application with Firebase
+- Gained advanced knowledge in Flutter
+- Developed readiness to explore expert topics in Flutter
+- The ability to handle and manage freelance projects
+- Acquired the necessary skills and knowledge to confidently take up a Flutter development position within a company
+
+## Limitations and Notes
+
+Please note the following limitations and important information for this course:
+
+- This course focuses on Windows configurations. IOS configurations are not covered but feel free to ask questions about it. We will be there to help.
+- This course includes 2 apps, one for the Users, and another App for the Admin, both in "Portrait mode".
+- The Android app is designed to be responsive only in portrait mode; it does not support landscape mode.
+- Resources are attached to each lecture.
+- 24/7 support will be provided depending on the nature of your questions.
+
