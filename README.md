@@ -5,7 +5,7 @@
 [![Watch the Full App promo]((https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/71b188b6-53c7-478b-8dfa-5aa44e0e171e))](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/407528a9-e2dc-4bd7-b6f3-d41ba2ecb010)
 
 
-Please Note: 
+## Please Note: 
 - All the information discussed here is thoroughly covered in the course. For a quicker overview, it's recommended to watch the course introduction, though if you prefer, you're welcome to read on.
 - The courses are always on Sale! You can get sale coupons for my courses from [this channel](https://discord.gg/gycactGhKH) where I share the Best prices & Monthly coupons!
 
@@ -47,7 +47,7 @@ Currently, our expert-level course is **under development**, but we will cover t
 
 <hr>
 
-For those interested in the **full app with premium features**, it's available for purchase at **$80**. An additional support package is available for **$70** (totaling **$150**), where I will personally provide two hours of support to help you get the app up and running. To avail of this offer, simply drop us a message on our Facebook page, [Coding with Hadi](https://www.facebook.com/people/Coding-with-Hadi/100071826750087/), Note that the price might change over time.
+**For those interested** in the **full app with premium features**, it's available for purchase at **$80**. An additional support package is available for **$70** (totaling **$150**), where I will personally provide two hours of support to help you get the app up and running. To avail of this offer, simply drop us a message on our Facebook page, [Coding with Hadi](https://www.facebook.com/people/Coding-with-Hadi/100071826750087/), Note that the price might change over time.
 
 <hr>
 
