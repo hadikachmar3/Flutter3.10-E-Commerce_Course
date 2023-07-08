@@ -1,4 +1,4 @@
-Flutter 3.10 & Firebase: Building an E-commerce & Admin App 
+# Flutter 3.10 & Firebase: Building an E-commerce & Admin App 
 
 Please Note: All the information discussed here is thoroughly covered in the course. For a quicker overview, it's recommended to watch the course introduction, though if you prefer, you're welcome to read on.
 
