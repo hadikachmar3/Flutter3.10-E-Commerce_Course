@@ -1,5 +1,10 @@
 # Flutter 3.10 & Firebase: Building an E-commerce & Admin App 
 
+![shopSmart logo](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/71b188b6-53c7-478b-8dfa-5aa44e0e171e)
+
+[![Watch the Full App promo]((https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/71b188b6-53c7-478b-8dfa-5aa44e0e171e))](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/407528a9-e2dc-4bd7-b6f3-d41ba2ecb010)
+
+
 Please Note: All the information discussed here is thoroughly covered in the course. For a quicker overview, it's recommended to watch the course introduction, though if you prefer, you're welcome to read on.
 
 ## Recording Equipment
@@ -17,14 +22,12 @@ This top-of-the-line equipment ensures the highest possible audio and video qual
 
 <hr>
 
-![shopSmart logo](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/71b188b6-53c7-478b-8dfa-5aa44e0e171e)
 Hello and welcome! This repository provides key information about our comprehensive courses, which are available in both [Arabic](https://www.udemy.com/course/draft/5285628/?referralCode=23C757CB10BBD913E55B) and [English](https://www.udemy.com/course/draft/5246870/?referralCode=A4F9F133D8C6ECA8CCA8) on Udemy.
 
 <hr>
 
 We've designed the learning experience in two separate courses to cater to different skill levels. The first course is for beginners to advanced learners, offering a gradual progression from basic to advanced concepts. The second course is an extension of the first one, serving as a deep dive into expert-level topics for advanced learners.
 
-[![Watch the Full App promo]((https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/71b188b6-53c7-478b-8dfa-5aa44e0e171e))](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/407528a9-e2dc-4bd7-b6f3-d41ba2ecb010)
 
 
 You can freely view the full app demonstrations and final outcomes of both courses on Udemy. In the design of our courses, we've intentionally deviated from the main design of the full application. Adjustments in elements such as colors and padding have been made to give you the flexibility to tailor the app according to your needs. This is clearly explained in the course intro and demonstrated in the videos, so make sure to check them out.
@@ -46,11 +49,16 @@ For those interested in the **full app with premium features**, it's available f
 <hr>
 
 Without any purchase, you can preview the final outputs of the apps covered in the courses on Udemy. Additionally, each lecture is bundled with all relevant resources, including the source code.
-![Resources](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/39106c06-5513-4027-831a-7946ea865cbe)
+![Resources](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/fd58ae73-22a5-4f0e-a6d0-b55719a5362a)
+
+<hr>
+
 Please make sure to watch the [tricks&tips tutorial](https://youtu.be/zkdciJvhlKM)
 
-
+<hr>
+<!--
 [![Tips&Tricks](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/87941d4f-adb3-4830-beb0-21474d85c344)](https://youtu.be/zkdciJvhlKM)
+-->
 
 
 
@@ -60,10 +68,10 @@ Learn to design, build, and debug fully functional shopping applications with Fl
 
 ## Prerequisites
 
-- Basic knowledge in programming
+- Basic knowledge of programming
 - Basic understanding of Flutter
 - Experience with Windows or Mac application development
-- Access to a computer with an internet connection
+- Access to a computer with an Internet connection
 - Enthusiasm for learning and applying cutting-edge algorithms to practical cases
 
 ## What You Will Learn
