@@ -17,7 +17,7 @@ Rating system
 Updating item quantity in the cart
 Address management (Adding and Editing addresses)
 Firebase subcollections
-For those interested in the full app with premium features, it's available for purchase at $80. An additional support package is available for $70 (totaling $150), where I will personally provide two hours of support to help you get the app up and running. To avail of this offer, simply drop us a message on our Facebook page, Coding with Hadi.
+For those interested in the **full app with premium features**, it's available for purchase at **$80**. An additional support package is available for **$70** (totaling **$150**), where I will personally provide two hours of support to help you get the app up and running. To avail of this offer, simply drop us a message on our Facebook page, Coding with Hadi.
 
 Without any purchase, you can preview the final outputs of the apps covered in the courses on Udemy. Additionally, each lecture is bundled with all relevant resources, including the source code.
 ![Resources](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/39106c06-5513-4027-831a-7946ea865cbe)
