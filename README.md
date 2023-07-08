@@ -2,14 +2,34 @@
 
 Please Note: All the information discussed here is thoroughly covered in the course. For a quicker overview, it's recommended to watch the course introduction, though if you prefer, you're welcome to read on.
 
+## Recording Equipment
+
+<hr>
+
+The following equipment has been used for the recording and production of this course:
+
+- Video Editing Software: Camtasia 2022
+- Microphone: Blue Yeti X
+
+
+
+This top-of-the-line equipment ensures the highest possible audio and video quality for the course content.
+
+<hr>
+
 ![shopSmart logo](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/71b188b6-53c7-478b-8dfa-5aa44e0e171e)
 Hello and welcome! This repository provides key information about our comprehensive courses, which are available in both [Arabic](https://www.udemy.com/course/draft/5285628/?referralCode=23C757CB10BBD913E55B) and [English](https://www.udemy.com/course/draft/5246870/?referralCode=A4F9F133D8C6ECA8CCA8) on Udemy.
+
+<hr>
 
 We've designed the learning experience in two separate courses to cater to different skill levels. The first course is for beginners to advanced learners, offering a gradual progression from basic to advanced concepts. The second course is an extension of the first one, serving as a deep dive into expert-level topics for advanced learners.
 
 [![Watch the Full App promo]((https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/71b188b6-53c7-478b-8dfa-5aa44e0e171e))](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/407528a9-e2dc-4bd7-b6f3-d41ba2ecb010)
 
+
 You can freely view the full app demonstrations and final outcomes of both courses on Udemy. In the design of our courses, we've intentionally deviated from the main design of the full application. Adjustments in elements such as colors and padding have been made to give you the flexibility to tailor the app according to your needs. This is clearly explained in the course intro and demonstrated in the videos, so make sure to check them out.
+
+<hr>
 
 Currently, our expert-level course is **under development**, but we will cover the following topics:
 
@@ -19,11 +39,16 @@ Currently, our expert-level course is **under development**, but we will cover t
 - Address management (Adding and Editing addresses)
 - Firebase subcollections
 
-For those interested in the **full app with premium features**, it's available for purchase at **$80**. An additional support package is available for **$70** (totaling **$150**), where I will personally provide two hours of support to help you get the app up and running. To avail of this offer, simply drop us a message on our Facebook page, Coding with Hadi.
+<hr>
+
+For those interested in the **full app with premium features**, it's available for purchase at **$80**. An additional support package is available for **$70** (totaling **$150**), where I will personally provide two hours of support to help you get the app up and running. To avail of this offer, simply drop us a message on our Facebook page, [Coding with Hadi](https://www.facebook.com/people/Coding-with-Hadi/100071826750087/), Note that the price might change over time.
+
+<hr>
 
 Without any purchase, you can preview the final outputs of the apps covered in the courses on Udemy. Additionally, each lecture is bundled with all relevant resources, including the source code.
 ![Resources](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/39106c06-5513-4027-831a-7946ea865cbe)
-Please make sure to watch the tricks&tips tutorial
+Please make sure to watch the [tricks&tips tutorial](https://youtu.be/zkdciJvhlKM)
+
 
 [![Tips&Tricks](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/87941d4f-adb3-4830-beb0-21474d85c344)](https://youtu.be/zkdciJvhlKM)
 
