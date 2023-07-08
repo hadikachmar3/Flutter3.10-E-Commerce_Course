@@ -5,7 +5,10 @@
 [![Watch the Full App promo]((https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/71b188b6-53c7-478b-8dfa-5aa44e0e171e))](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/407528a9-e2dc-4bd7-b6f3-d41ba2ecb010)
 
 
-Please Note: All the information discussed here is thoroughly covered in the course. For a quicker overview, it's recommended to watch the course introduction, though if you prefer, you're welcome to read on.
+Please Note: 
+- All the information discussed here is thoroughly covered in the course. For a quicker overview, it's recommended to watch the course introduction, though if you prefer, you're welcome to read on.
+- The courses are always on Sale! You can get sale coupons for my courses from [this channel](https://discord.gg/gycactGhKH) where I share the Best prices & Monthly coupons!
+
 
 ## Recording Equipment
 
