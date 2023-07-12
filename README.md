@@ -1,6 +1,17 @@
 # Flutter 3.10 & Firebase: Building an E-commerce & Admin App 
 <!-- added on 13/07/2023 ---> 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Flutter3.10-E-Commerce_Course&label=People%20who%20visited%20this%20page&countColor=%23263759)  <br> <br>
+
+
+[![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
+[![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
+[![Facebook: HadiKachmar](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
+[![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
+[![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
+
+
+
 ![shopSmart logo](https://img-c.udemycdn.com/course/200_H/5246870_67ad_4.jpg)
 
 [![Watch the Full App promo]((https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/71b188b6-53c7-478b-8dfa-5aa44e0e171e))](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/407528a9-e2dc-4bd7-b6f3-d41ba2ecb010)
@@ -139,3 +150,12 @@ Please note the following limitations and important information for this course:
 - Resources are attached to each lecture.
 - 24/7 support will be provided depending on the nature of your questions.
 
+
+[udemy]: https://www.udemy.com/user/hadi-kachmar-2/
+[youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
+[linkedin]: https://www.linkedin.com/in/hadi-kachmar-27a56a177/
+[github]: https://github.com/hadikachmar3
+[email]: mailto:flutterer.dev@gmail.com
+[facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
+[discord]: https://discord.gg/MhnKaY5qdK
+[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
