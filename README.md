@@ -1,7 +1,6 @@
-# Flutter 3.10 & Firebase: Building an E-commerce & Admin App 
+# Flutter 3.10 & Firebase: Building an E-commerce & Admin App - Updated on 21/09/2023
 <!-- added on 13/07/2023 ---> 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Flutter3.10-E-Commerce_Course&label=People%20who%20visited%20this%20page&countColor=%23263759)  <br> <br>
-
 
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
@@ -10,11 +9,13 @@
 [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
 [![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
 
-
+## 📱 Try the App on the PlayStore
+Great news! You can now download and test the app through [this Google Play Store link](https://play.google.com/store/apps/details?id=com.hadik3.spring_store&hl=en&gl=US).
 
 ![shopSmart logo](https://img-c.udemycdn.com/course/200_H/5246870_67ad_4.jpg)
 
 [![Watch the Full App promo]((https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/71b188b6-53c7-478b-8dfa-5aa44e0e171e))](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/407528a9-e2dc-4bd7-b6f3-d41ba2ecb010)
+
 
 
 ## Please Note: 
