@@ -19,6 +19,7 @@ Great news! You can now download and test the app through [this Google Play Stor
 
 
 ## Please Note: 
+- - The complete code covered in the course is now found on GitHub [shopSmartCourseFirebaseEN](https://github.com/hadikachmar3/shopSmartCourseFirebaseEN) [shopSmartCourseFirebaseAR](https://github.com/hadikachmar3/shopSmartCourseFirebaseAR)
 - All the information discussed here is thoroughly covered in the course. For a quicker overview, it's recommended to watch the course introduction, though if you prefer, you're welcome to read on.
 - The courses are always on Sale! You can get sale coupons for my courses from [this channel](https://discord.gg/gycactGhKH) where I share the Best prices & Monthly coupons!
 
