@@ -62,6 +62,10 @@ Currently, our expert-level course is **under development**, but we will cover t
 <hr>
 
 **For those interested** in the **full app with premium features**, it's available for purchase at **$80**. An additional support package is available for **$70** (totaling **$150**), where I will personally provide two hours of support to help you get the app up and running. To avail of this offer, simply drop us a message on our Facebook page, [Coding with Hadi](https://www.facebook.com/people/Coding-with-Hadi/100071826750087/), Note that the price might change over time.
+**For those interested** in the **Source code for free** all what you have to do is:
+1. Complete the course, achieving 100% progress.
+2. Contact me on my Facebook Page or Discord, providing your Udemy name for progress verification.
+3. Once your progress is verified at 100%, you will be invited to the GitHub Repo.
 
 <hr>
 
