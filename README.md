@@ -19,7 +19,7 @@ Great news! You can now download and test the app through [this Google Play Stor
 
 
 ## Please Note: 
-- - The complete code covered in the course is now found on GitHub [shopSmartCourseFirebaseEN](https://github.com/hadikachmar3/shopSmartCourseFirebaseEN) [shopSmartCourseFirebaseAR](https://github.com/hadikachmar3/shopSmartCourseFirebaseAR)
+- The complete code covered in the course is now found on GitHub [shopSmartCourseFirebaseEN](https://github.com/hadikachmar3/shopSmartCourseFirebaseEN) [shopSmartCourseFirebaseAR](https://github.com/hadikachmar3/shopSmartCourseFirebaseAR)
 - All the information discussed here is thoroughly covered in the course. For a quicker overview, it's recommended to watch the course introduction, though if you prefer, you're welcome to read on.
 - The courses are always on Sale! You can get sale coupons for my courses from [this channel](https://discord.gg/gycactGhKH) where I share the Best prices & Monthly coupons!
 
@@ -62,6 +62,7 @@ Currently, our expert-level course is **under development**, but we will cover t
 <hr>
 
 **For those interested** in the **full app with premium features**, it's available for purchase at **$80**. An additional support package is available for **$70** (totaling **$150**), where I will personally provide two hours of support to help you get the app up and running. To avail of this offer, simply drop us a message on our Facebook page, [Coding with Hadi](https://www.facebook.com/people/Coding-with-Hadi/100071826750087/), Note that the price might change over time.
+<br><br>
 **For those interested** in the **Source code for free** all what you have to do is:
 1. Complete the course, achieving 100% progress.
 2. Contact me on my Facebook Page or Discord, providing your Udemy name for progress verification.
